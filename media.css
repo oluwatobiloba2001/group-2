@@ -1,0 +1,9 @@
+@media [max-width: 500px]{
+    .container {
+        font-size: 200px;
+    }
+    .sec-one{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
